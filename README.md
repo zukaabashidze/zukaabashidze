@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuka Abashidze</h1>
-<h3 align="center">A workaholic from Georgia</h3>
+<h3 align="center">I'm from Georgia</h3>
 
 - 🔭 I’m currently working on **to be a good proggramer**
 
