@@ -6,7 +6,7 @@
 :student: Study web developent at [Goal-Oriented-Academy](https://www.facebook.com/nika11keshelava)<br/>
 :thought_balloon: Currently learning REACT<br/>
 
-![Anurag's GitHub stats]()
+![Anurag's GitHub stats](https://github.com/zukaabashidze)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmar01&label=Profile%20views&color=0e75b6&style=flat" alt="programmar01" /> </p>
 
