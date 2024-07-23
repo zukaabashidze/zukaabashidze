@@ -6,7 +6,7 @@
 :student: Study web developent at [Goal-Oriented-Academy](https://www.facebook.com/nika11keshelava)<br/>
 :thought_balloon: Currently learning REACT<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmar01&show_icons=true&theme=radical)
+![Anurag's GitHub stats]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmar01&label=Profile%20views&color=0e75b6&style=flat" alt="programmar01" /> </p>
 
