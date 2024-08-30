@@ -1,4 +1,4 @@
-### Hi, I'm Zuka:wave:
+### Hi, I'm Zuka
 
 
 
