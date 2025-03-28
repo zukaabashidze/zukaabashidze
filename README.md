@@ -4,6 +4,8 @@
 
 :technologist: I'm web developer with a passion for creating responsive and user-friendly websites</br>
 :student: Study web developent at [Goal-Oriented-Academy](https://www.facebook.com/nika11keshelava)<br/>
+:student: Study Cyber Security 
+💻 Ethical/Dark Cyber Hacker
 :thought_balloon: Currently learning REACT<br/>
 
 ![Anurag's GitHub stats](https://github.com/zukaabashidze)
